@@ -2,8 +2,6 @@ baseURL = "https://doomcoin.netlify.app/"
 languageCode = "en"
 disableKinds = ["taxonomy"]
 
-
-
 [build]
     writeStats = true
 
@@ -13,12 +11,7 @@ disableKinds = ["taxonomy"]
     description = "HUMANITY IS IN DANGER"
     copyright = "Custom copyright message"
     theme = "dark" # `dark` or `light`
-    enableInlineShortcodes = true
-    enableRobotsTXT = true
-    enableEmoji = true
-    asciinema = false
-i   gnoreErrors = ["error-remote-getjson"]
-
+    
 
     # Profile section
     [params.profile]

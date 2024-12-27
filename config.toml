@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://github.com/Mark199317/mem"
 languageCode = "en-us"
 disableKinds = ["taxonomy"]
 
@@ -8,130 +8,108 @@ disableKinds = ["taxonomy"]
 [params]
     title = "Sada Theme"
     author = "Darshan Baral"
-    description = "Simple portfolio theme"
+    description = "HUMANITY IS IN DANGER"
     copyright = "Custom copyright message"
     theme = "dark" # `dark` or `light`
 
     # Profile section
     [params.profile]
-        name = "First Last"
-        title = "Abbr., K.A."
-        photo = "images/profile.jpg"
+        name = "DOOM Coin"
+        title = "crypto"
+        photo = "images/doom.jpg"
 
     # Section for links to social websites
     [params.social]
         title = "Links"
 
         [[params.social.list]]
-        icon = "fab fa-linkedin-in"
-        url = "#"
-        title = "LinkedIn"
+        icon = "fab fa-telegram"
+        url = "https://t.me/stivenkings"
+        title = "telegram"
 
         [[params.social.list]]
-        icon = "fab fa-github"
+        icon = "fab fa-twitter"
         url = "#"
         title = "GitHub"
 		
-		[[params.social.list]]
-        icon = "ai ai-google-scholar"
-        url = "#"
-        title = "Google Scholar"
-		
-		[[params.social.list]]
-        icon = "ai ai-researchgate"
-        url = "#"
-        title = "ResearchGate"		
 
     # Education section
     [params.education]
-        title = "Education"
+        title = "Support"
 
         [[params.education.list]]
-        degree = "Masters in Degree 1"
-        college = "University Number 1"
-        dates = "2016 - 2018"
-        thesis_title = "Title of the dissertation"
+        degree = "Huge community of DOOM players in the world"
+        college = "Game series"
+        dates = "1993 - 2025"
+        thesis_title = "More than 10 million people worldwide"
         thesis_link = "#"
 
-        [[params.education.list]]
-        degree = "Bachelors in Degree 2"
-        college = "University Number 2"
-        dates = "2010 - 2014"
 
-    # Languages section
-    [params.language]
-        title = "Languages"
 
-        [[params.language.list]]
-        language = "English"
-        level = "Fluent"
-				
-        [[params.language.list]]
-        language = "Bird"
-        level = "Basic"
 
     # Interests section
     [params.hobbies]
-        title = "Hobbies"
+        title = "Doom Coin Properties"
 
         [[params.hobbies.list]]
-        interest = "Travelling"
+        interest = "-The power of friendship"
 		
 		[[params.hobbies.list]]
-        interest = "Music"
+        interest = "-Growth rate"
 
         [[params.hobbies.list]]
-        interest = "Flying"
+        interest = "-Resistance to Evil"
 
         [[params.hobbies.list]]
-        interest = "Baking"
+        interest = "-Joint efforts"
 
     [params.aboutme]
-        description = "Tagline. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        description = "Demonic activity has been detected on the moon! The Doom Slayer is currently in another dimension! By purchasing Doom Coin, we can work together to open a portal and send DOOM Coin TO THE MOON !!!"
 
     # Experiences section
     [params.experiences]
-        title = "Experiences"
+        title = "Inspiration"
 
         [[params.jobs.list]]
-        position = "Job Number 1"
-        dates = "2018 - *Present*"
+        
+        dates = "26.12.2024"
 		link = "#"
-        company = "Company name 1"
+        company = "Doom Slayer"
+         details = "In these difficult times, such a strong and courageous hero as the Doom Slayer was sorely lacking. After all, he alone confronts the enormous evil and horror of hell!"
 
         [[params.jobs.list]]
-        position = "Job Number 2"
-        dates = "2016 - 2018"
+        
+        dates = "26.12.2024"
 		link = "#"
-        company = "Company name 2"
-        details = "Brief description of the `work` done. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        company = "DOOM Coin"
+        details = "This beautiful crypto coin is designed to support the fighter against evil, the guy from Doom. We, ordinary people, can do our part to defeat the forces of evil."
 
     # Projects section
     [params.projects]
-        title = "Projects"
+        title = "TOKEN INFORMATION"
 
         [[params.projects.list]]
-        title = "Awesome Project 1"
+        title = "*SMART CONTRACT*"
         url = "#"
-        description = "Description of the *awesome* project 1"
+        description = "7qMehy5CYGKckCDKoro9CSLVrNo4KsrDXHhrY6ytpump"
 		
 		[[params.projects.list]]
-        title = "Awesome Project 2"
+        title = "*TOKEN AMOUNT*"
         url = "#"
-        description = "Description of the **awesome** project 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        description = "1 000 000 000"
 
     # Skills section
     [params.skills]
-        title = "Skills"
+        title = "Market Cap"
 
         [[params.skills.list]]
-        skill = "Skill 1, Skill 2"
-        skillrating = 95 # out of 100
+        skill = "Target 3 - 300k"
+        skillrating = 88
                 
         [[params.skills.list]]
-        skill = "Skill 3"
-        skillrating = 90
+        skill = "Target 2 - 130k"
+        skillrating = 50
 		
         [[params.skills.list]]
-        skill = "Skill 4"
-        skillrating = 80
+        skill = "Target 1 - 50k"
+        skillrating = 15

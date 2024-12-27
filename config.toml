@@ -1,6 +1,6 @@
 baseURL = "https://doomcoin.netlify.app/"
 languageCode = "en"
-
+disableKinds = ["taxonomy"]
 
 
 

@@ -1,6 +1,6 @@
 baseURL = "https://github.com/Mark199317/mem"
 languageCode = "en-us"
-ignoreErrors = ["error-disable-taxonomy"]
+disableKinds = ["taxonomy"]
 
 [build]
     writeStats = true

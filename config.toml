@@ -1,6 +1,10 @@
 baseURL = "https://doomcoin.netlify.app/"
 languageCode = "en-us"
 disableKinds = ["taxonomy"]
+enableInlineShortcodes = true
+enableRobotsTXT = true
+enableEmoji = true
+asciinema = false
 
 [build]
     writeStats = true

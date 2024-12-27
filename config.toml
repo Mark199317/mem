@@ -30,8 +30,8 @@ disableKinds = ["taxonomy"]
 
         [[params.social.list]]
         icon = "fab fa-twitter"
-        url = "#"
-        title = "GitHub"
+        url = "https://x.com/DOOM"
+        title = "twitter"
 		
 
     # Education section

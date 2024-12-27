@@ -13,8 +13,8 @@
     X-XSS-Protection = "1; mode=block"
 
 [[redirects]]
-  from = "https://github.com/Mark199317/mem/:splat"
-  to = "https://github.com/Mark199317/mem/:splat"
+  from = "https://doomcoin.netlify.app/:splat"
+  to = "https://doomcoin.netlify.app/:splat"
   status = 301
   force = true
 

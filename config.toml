@@ -1,4 +1,4 @@
-baseURL = "https://github.com/Mark199317/mem"
+baseURL = "https://doomcoin.netlify.app/"
 languageCode = "en-us"
 disableKinds = ["taxonomy"]
 
@@ -6,8 +6,8 @@ disableKinds = ["taxonomy"]
     writeStats = true
 
 [params]
-    title = "Sada Theme"
-    author = "Darshan Baral"
+    title = "CRYPTO DOOM COIN"
+    author = "DR DOOM"
     description = "HUMANITY IS IN DANGER"
     copyright = "Custom copyright message"
     theme = "dark" # `dark` or `light`

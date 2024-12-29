@@ -91,12 +91,12 @@ disableKinds = ["taxonomy"]
 
         [[params.projects.list]]
         title = "*SMART CONTRACT*"
-        url = "#"
-        description = "7qMehy5CYGKckCDKoro9CSLVrNo4KsrDXHhrY6ytpump"
+        url = "https://pump.fun/coin/Gug4gvHWXECvcRYJBh4NbHd2MqEYWwjZxdt7n2tnpump"
+        description = "Gug4gvHWXECvcRYJBh4NbHd2MqEYWwjZxdt7n2tnpump"
 		
 		[[params.projects.list]]
         title = "*TOKEN AMOUNT*"
-        url = "#"
+        url = "https://pump.fun/coin/Gug4gvHWXECvcRYJBh4NbHd2MqEYWwjZxdt7n2tnpump"
         description = "1 000 000 000"
 
     # Skills section
